@@ -74,7 +74,7 @@ I specialize in building scalable backend systems, developing **manless parking 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn: https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/muhammadindrawan/)
+- (https://www.linkedin.com/in/muhammadindrawan/)
 - Email: muhammadindrawannn@gmail.com
 
 ---
