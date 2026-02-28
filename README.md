@@ -49,9 +49,11 @@ I specialize in building scalable backend systems, developing **manless parking 
 
 ---
 
-## 🚗 Highlight Project
+## 🚗 Highlight Projects
 
-### Manless Parking IoT System
+### 🚗 Manless Parking IoT System
+IoT-based automated parking system built using Python for gate automation and backend integration.
+
 - Automated gate control using Python
 - Cashless transaction integration
 - Real-time vehicle detection & monitoring
@@ -60,6 +62,37 @@ I specialize in building scalable backend systems, developing **manless parking 
 - Server deployment on Linux environment
 
 ---
+
+### 💳 Cashless Parkways System
+Cashless parking payment system integrated with central API and real-time validation.
+
+- QR-based and transaction-code payment validation
+- Integration with central backend system
+- Real-time transaction processing
+- Secure API authentication & logging
+- PostgreSQL-based transaction storage
+
+---
+
+### 🧾 Cashier Parkways System
+Web-based cashier management system for parking operations.
+
+- Transaction validation & manual override system
+- Daily financial reporting dashboard
+- Integration with gate & cashless system
+- Role-based authentication (Admin / Operator)
+- REST API backend with Laravel
+- PostgreSQL & MySQL database integration
+
+---
+
+### 🎟 EasyTicket System
+Ticketing and access control system designed for streamlined parking and event entry.
+
+- Ticket generation & verification system
+- API-based validation workflow
+- Secure transaction logging
+- Backend service built with Laravel
 
 ## 📈 GitHub Statistics
 
