@@ -31,12 +31,12 @@ I specialize in building scalable backend systems, developing **manless parking 
 ### 💡 Backend & IoT
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-Framework-black?style=for-the-badge&logo=express)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,14 +63,13 @@ I specialize in building scalable backend systems, developing **manless parking 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdindrawan&show_icons=true&theme=tokyonight&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdindrawan&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhmmdindrawan&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhmmdindrawan&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhmmdindrawan&theme=tokyonight" height="170">
+  <img src="https://streak-stats.demolab.com?user=mhmmdindrawan&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
-
 ---
 
 ## 📫 Connect With Me
