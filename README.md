@@ -49,9 +49,9 @@ I specialize in building scalable backend systems, developing **manless parking 
 
 ---
 
-## 🚗 Highlight Projects
+## 🚀 Highlight Projects
 
-### 🚗 Manless Parking IoT System
+### 🛰 Manless Parking IoT System
 IoT-based automated parking system built using Python for gate automation and backend integration.
 
 - Automated gate control using Python
